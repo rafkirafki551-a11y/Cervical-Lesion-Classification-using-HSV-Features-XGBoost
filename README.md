@@ -8,7 +8,7 @@ The project combines lesion segmentation, HSV color analysis, dominant color ext
 
 Explore the complete implementation and experiment through Google Colab:
 
-👉 [Open in Google Colab]([https://colab.research.google.com/drive/1sdLPWXAF_QFAUsSIK4exVTnYlrm2MxGH?usp=sharing](https://colab.research.google.com/drive/1UMzXogiNDdL_FV8jTD3SsGEJdhC5qw3k))
+👉 [Open in Google Colab](https://colab.research.google.com/drive/1UMzXogiNDdL_FV8jTD3SsGEJdhC5qw3k)
 
 ## 🎯 Objective
 
