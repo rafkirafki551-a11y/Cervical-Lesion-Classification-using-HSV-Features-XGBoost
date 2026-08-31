@@ -4,6 +4,12 @@ Machine Learning project for **classifying pre-cancerous cervical lesion images*
 
 The project combines lesion segmentation, HSV color analysis, dominant color extraction, and XGBoost classification to analyze visual characteristics of cervical lesions.
 
+## 🚀 Project Access
+
+Explore the complete implementation and experiment through Google Colab:
+
+👉 [Open in Google Colab]([https://colab.research.google.com/drive/1sdLPWXAF_QFAUsSIK4exVTnYlrm2MxGH?usp=sharing](https://colab.research.google.com/drive/1UMzXogiNDdL_FV8jTD3SsGEJdhC5qw3k))
+
 ## 🎯 Objective
 
 To develop a classification system that uses **HSV statistical features and dominant color features** to distinguish three cervical lesion classes.
